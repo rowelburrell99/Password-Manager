@@ -16,6 +16,6 @@ Password Manager Features:
 - Visit websites entered - launches desktop browser and redirects to said website.
 - Refresh database
 - Random password generator
-- Encryption method (courtesy of https://howtodoinjava.com/security/aes-256-encryption-decryption/)
+- Encryption method (https://howtodoinjava.com/security/aes-256-encryption-decryption/)
 - Decryption method 
 - Sign out - returns back to login system.
